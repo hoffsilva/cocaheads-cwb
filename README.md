@@ -11,5 +11,5 @@ This is the public repository for publish files of Cocoaheads Curitiba events.
 
 
 ## Infos and questions
-If you want to something about Cocoaheads Curitiba send a message to ***coming soon***.
+If you want to know something about Cocoaheads Curitiba send a message to ***coming soon***.
 
